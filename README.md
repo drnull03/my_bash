@@ -9,3 +9,4 @@ I've decided to share them on GitHub.
 These files are a continuous work in progress. My goal is to enrich them with powerful aliases, useful functions, and other features that make life on the command line more efficient and enjoyable.
 
 
+
